@@ -1,0 +1,51 @@
+C:\Users\phbin\OneDrive\Desktop\PRN211_ProJect_Sudoku-master\PRN211_Project_Sudoku\bin\Debug\net6.0-windows\PRN211_Project_Sudoku.exe
+C:\Users\phbin\OneDrive\Desktop\PRN211_ProJect_Sudoku-master\PRN211_Project_Sudoku\bin\Debug\net6.0-windows\PRN211_Project_Sudoku.deps.json
+C:\Users\phbin\OneDrive\Desktop\PRN211_ProJect_Sudoku-master\PRN211_Project_Sudoku\bin\Debug\net6.0-windows\PRN211_Project_Sudoku.runtimeconfig.json
+C:\Users\phbin\OneDrive\Desktop\PRN211_ProJect_Sudoku-master\PRN211_Project_Sudoku\bin\Debug\net6.0-windows\PRN211_Project_Sudoku.dll
+C:\Users\phbin\OneDrive\Desktop\PRN211_ProJect_Sudoku-master\PRN211_Project_Sudoku\bin\Debug\net6.0-windows\PRN211_Project_Sudoku.pdb
+C:\Users\phbin\OneDrive\Desktop\PRN211_ProJect_Sudoku-master\PRN211_Project_Sudoku\obj\Debug\net6.0-windows\PRN211_Project_Sudoku.csproj.AssemblyReference.cache
+C:\Users\phbin\OneDrive\Desktop\PRN211_ProJect_Sudoku-master\PRN211_Project_Sudoku\obj\Debug\net6.0-windows\PRN211_Project_Sudoku.Form1.resources
+C:\Users\phbin\OneDrive\Desktop\PRN211_ProJect_Sudoku-master\PRN211_Project_Sudoku\obj\Debug\net6.0-windows\PRN211_Project_Sudoku.csproj.GenerateResource.cache
+C:\Users\phbin\OneDrive\Desktop\PRN211_ProJect_Sudoku-master\PRN211_Project_Sudoku\obj\Debug\net6.0-windows\PRN211_Project_Sudoku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phbin\OneDrive\Desktop\PRN211_ProJect_Sudoku-master\PRN211_Project_Sudoku\obj\Debug\net6.0-windows\PRN211_Project_Sudoku.AssemblyInfoInputs.cache
+C:\Users\phbin\OneDrive\Desktop\PRN211_ProJect_Sudoku-master\PRN211_Project_Sudoku\obj\Debug\net6.0-windows\PRN211_Project_Sudoku.AssemblyInfo.cs
+C:\Users\phbin\OneDrive\Desktop\PRN211_ProJect_Sudoku-master\PRN211_Project_Sudoku\obj\Debug\net6.0-windows\PRN211_Project_Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\phbin\OneDrive\Desktop\PRN211_ProJect_Sudoku-master\PRN211_Project_Sudoku\obj\Debug\net6.0-windows\PRN211_Project_Sudoku.dll
+C:\Users\phbin\OneDrive\Desktop\PRN211_ProJect_Sudoku-master\PRN211_Project_Sudoku\obj\Debug\net6.0-windows\refint\PRN211_Project_Sudoku.dll
+C:\Users\phbin\OneDrive\Desktop\PRN211_ProJect_Sudoku-master\PRN211_Project_Sudoku\obj\Debug\net6.0-windows\PRN211_Project_Sudoku.pdb
+C:\Users\phbin\OneDrive\Desktop\PRN211_ProJect_Sudoku-master\PRN211_Project_Sudoku\obj\Debug\net6.0-windows\PRN211_Project_Sudoku.genruntimeconfig.cache
+C:\Users\phbin\OneDrive\Desktop\PRN211_ProJect_Sudoku-master\PRN211_Project_Sudoku\obj\Debug\net6.0-windows\ref\PRN211_Project_Sudoku.dll
+D:\PRN Code\PRN211_Project_Sudoku\PRN211_Project_Sudoku\bin\Debug\net6.0-windows\PRN211_Project_Sudoku.exe
+D:\PRN Code\PRN211_Project_Sudoku\PRN211_Project_Sudoku\bin\Debug\net6.0-windows\PRN211_Project_Sudoku.deps.json
+D:\PRN Code\PRN211_Project_Sudoku\PRN211_Project_Sudoku\bin\Debug\net6.0-windows\PRN211_Project_Sudoku.runtimeconfig.json
+D:\PRN Code\PRN211_Project_Sudoku\PRN211_Project_Sudoku\bin\Debug\net6.0-windows\PRN211_Project_Sudoku.dll
+D:\PRN Code\PRN211_Project_Sudoku\PRN211_Project_Sudoku\bin\Debug\net6.0-windows\PRN211_Project_Sudoku.pdb
+D:\PRN Code\PRN211_Project_Sudoku\PRN211_Project_Sudoku\obj\Debug\net6.0-windows\PRN211_Project_Sudoku.csproj.AssemblyReference.cache
+D:\PRN Code\PRN211_Project_Sudoku\PRN211_Project_Sudoku\obj\Debug\net6.0-windows\PRN211_Project_Sudoku.Form1.resources
+D:\PRN Code\PRN211_Project_Sudoku\PRN211_Project_Sudoku\obj\Debug\net6.0-windows\PRN211_Project_Sudoku.csproj.GenerateResource.cache
+D:\PRN Code\PRN211_Project_Sudoku\PRN211_Project_Sudoku\obj\Debug\net6.0-windows\PRN211_Project_Sudoku.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN Code\PRN211_Project_Sudoku\PRN211_Project_Sudoku\obj\Debug\net6.0-windows\PRN211_Project_Sudoku.AssemblyInfoInputs.cache
+D:\PRN Code\PRN211_Project_Sudoku\PRN211_Project_Sudoku\obj\Debug\net6.0-windows\PRN211_Project_Sudoku.AssemblyInfo.cs
+D:\PRN Code\PRN211_Project_Sudoku\PRN211_Project_Sudoku\obj\Debug\net6.0-windows\PRN211_Project_Sudoku.csproj.CoreCompileInputs.cache
+D:\PRN Code\PRN211_Project_Sudoku\PRN211_Project_Sudoku\obj\Debug\net6.0-windows\PRN211_Project_Sudoku.dll
+D:\PRN Code\PRN211_Project_Sudoku\PRN211_Project_Sudoku\obj\Debug\net6.0-windows\refint\PRN211_Project_Sudoku.dll
+D:\PRN Code\PRN211_Project_Sudoku\PRN211_Project_Sudoku\obj\Debug\net6.0-windows\PRN211_Project_Sudoku.pdb
+D:\PRN Code\PRN211_Project_Sudoku\PRN211_Project_Sudoku\obj\Debug\net6.0-windows\PRN211_Project_Sudoku.genruntimeconfig.cache
+D:\PRN Code\PRN211_Project_Sudoku\PRN211_Project_Sudoku\obj\Debug\net6.0-windows\ref\PRN211_Project_Sudoku.dll
+D:\FPT SEMESTER\FALL 22\PRN211\PRN Code\PRN211_Project_Sudoku\PRN211_Project_Sudoku\bin\Debug\net6.0-windows\PRN211_Project_Sudoku.exe
+D:\FPT SEMESTER\FALL 22\PRN211\PRN Code\PRN211_Project_Sudoku\PRN211_Project_Sudoku\bin\Debug\net6.0-windows\PRN211_Project_Sudoku.deps.json
+D:\FPT SEMESTER\FALL 22\PRN211\PRN Code\PRN211_Project_Sudoku\PRN211_Project_Sudoku\bin\Debug\net6.0-windows\PRN211_Project_Sudoku.runtimeconfig.json
+D:\FPT SEMESTER\FALL 22\PRN211\PRN Code\PRN211_Project_Sudoku\PRN211_Project_Sudoku\bin\Debug\net6.0-windows\PRN211_Project_Sudoku.dll
+D:\FPT SEMESTER\FALL 22\PRN211\PRN Code\PRN211_Project_Sudoku\PRN211_Project_Sudoku\bin\Debug\net6.0-windows\PRN211_Project_Sudoku.pdb
+D:\FPT SEMESTER\FALL 22\PRN211\PRN Code\PRN211_Project_Sudoku\PRN211_Project_Sudoku\obj\Debug\net6.0-windows\PRN211_Project_Sudoku.csproj.AssemblyReference.cache
+D:\FPT SEMESTER\FALL 22\PRN211\PRN Code\PRN211_Project_Sudoku\PRN211_Project_Sudoku\obj\Debug\net6.0-windows\PRN211_Project_Sudoku.Form1.resources
+D:\FPT SEMESTER\FALL 22\PRN211\PRN Code\PRN211_Project_Sudoku\PRN211_Project_Sudoku\obj\Debug\net6.0-windows\PRN211_Project_Sudoku.csproj.GenerateResource.cache
+D:\FPT SEMESTER\FALL 22\PRN211\PRN Code\PRN211_Project_Sudoku\PRN211_Project_Sudoku\obj\Debug\net6.0-windows\PRN211_Project_Sudoku.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT SEMESTER\FALL 22\PRN211\PRN Code\PRN211_Project_Sudoku\PRN211_Project_Sudoku\obj\Debug\net6.0-windows\PRN211_Project_Sudoku.AssemblyInfoInputs.cache
+D:\FPT SEMESTER\FALL 22\PRN211\PRN Code\PRN211_Project_Sudoku\PRN211_Project_Sudoku\obj\Debug\net6.0-windows\PRN211_Project_Sudoku.AssemblyInfo.cs
+D:\FPT SEMESTER\FALL 22\PRN211\PRN Code\PRN211_Project_Sudoku\PRN211_Project_Sudoku\obj\Debug\net6.0-windows\PRN211_Project_Sudoku.csproj.CoreCompileInputs.cache
+D:\FPT SEMESTER\FALL 22\PRN211\PRN Code\PRN211_Project_Sudoku\PRN211_Project_Sudoku\obj\Debug\net6.0-windows\PRN211_Project_Sudoku.dll
+D:\FPT SEMESTER\FALL 22\PRN211\PRN Code\PRN211_Project_Sudoku\PRN211_Project_Sudoku\obj\Debug\net6.0-windows\refint\PRN211_Project_Sudoku.dll
+D:\FPT SEMESTER\FALL 22\PRN211\PRN Code\PRN211_Project_Sudoku\PRN211_Project_Sudoku\obj\Debug\net6.0-windows\PRN211_Project_Sudoku.pdb
+D:\FPT SEMESTER\FALL 22\PRN211\PRN Code\PRN211_Project_Sudoku\PRN211_Project_Sudoku\obj\Debug\net6.0-windows\PRN211_Project_Sudoku.genruntimeconfig.cache
+D:\FPT SEMESTER\FALL 22\PRN211\PRN Code\PRN211_Project_Sudoku\PRN211_Project_Sudoku\obj\Debug\net6.0-windows\ref\PRN211_Project_Sudoku.dll
